@@ -1,0 +1,27 @@
+Downloads --> VsCode
+Downloads --> git
+account GitHub:
+sincronizzare GitHub --- VsCode:
+	creare cartella madre edecidere se pubblica o privata
+	copiare link cartella
+	-->code menu di view
+		click command palet
+		CERCARE " git add remote "
+		dopo incollare link cartella madre
+		dopo mettere nome  cartella madre(conferma della posizione)
+creare cartelle/file:
+
+creare sottocartella/file:
+	si crea una cartella/file in maniera normale
+	si apre su code con la sincronizzazione attiva 
+	si aggiunge alle modifiche da caricare
+	in fine si  caricano kle modifiche
+	  
+aggiungere cartella/file:
+	da code tramite trascinamento o aprendo cartella/file
+
+caricare cartella/file:
+	appositi pulsanti:
+	* puls add
+	* puls commint
+	* puls push
